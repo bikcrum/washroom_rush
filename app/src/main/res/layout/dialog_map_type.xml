@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="16dp"
+    android:layout_height="wrap_content">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:id="@+id/radiogroup_map_type"
+        android:checkedButton="@+id/map_type_normal"
+        android:layout_height="wrap_content"
+        >
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/map_type_normal"
+            android:text="Normal"
+            />
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/map_type_satellite"
+            android:text="Satellite"
+            />
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/map_type_terrain"
+            android:text="Terrian"
+            />
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/map_type_hybrid"
+            android:text="Hybrid"
+            />
+
+
+    </RadioGroup>
+
+
+</LinearLayout>

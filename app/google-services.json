@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "623257472715",
+    "firebase_url": "https://washroom-rush-f494d.firebaseio.com",
+    "project_id": "washroom-rush-f494d",
+    "storage_bucket": "washroom-rush-f494d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623257472715:android:4501df310e4abd5d",
+        "android_client_info": {
+          "package_name": "com.android.washroomrush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623257472715-pok0050e6o1vaaghjmnh29a2if407jvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.washroomrush",
+            "certificate_hash": "7cae04a2a23d2889ed2274fc9d761fb7486dbe41"
+          }
+        },
+        {
+          "client_id": "623257472715-cmqi1iqnoanernn8rijke35vqd9kbe9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwiUthTtSNxCYhXX2AH2r9MWIvlmJmnro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623257472715-cmqi1iqnoanernn8rijke35vqd9kbe9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

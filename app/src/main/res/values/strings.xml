@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Washroom Rush</string>
+    <string name="title_activity_maps">Washroom Rush</string>
+    <string name="title_activity_signin">Washroom Rush</string>
+    <!--string name="default_web_client_id">729050776707-2ldcaus6uqtjgu20p655ovftnh7v5rjh.apps.googleusercontent.com </string-->
+    <string name="secret_web_client_id">P9Utzk5plu1hF-qioMVvY-az</string>
+    <string name="email_id_name"><i>Signed in as: %1$s</i></string>
+    <string name="images_count_label">Images (%1$d)</string>
+    <string name="latitude_text">Latitude: %1$f</string>
+    <string name="longitude_text">Longitude: %1$f</string>
+    <string name="createdBy_text">Created By: %1$s</string>
+    <string name="lastUpdatedTime_text">Last Updated: %1$s</string>
+    <string name="totalrooms_text">%1$d</string>
+    <string name="current_address">%1$s, %2$s</string>
+    <string name="username">$s</string>
+    <string name="admin">bikcrum@gmail.com</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/add_washroom"
+            android:icon="@drawable/ic_add_marker"
+            android:title="Add washroom" />
+        <item
+            android:id="@+id/search_route"
+            android:icon="@drawable/ic_my_trip"
+            android:title="Search Route" />
+
+
+    </group>
+
+    <item android:title="Settings">
+        <menu>
+            <item android:title="Map type"
+                android:id="@+id/map_type"
+                android:icon="@drawable/ic_map_type"/>
+
+
+        </menu>
+
+
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share"/>
+        </menu>
+    </item>
+
+</menu>
